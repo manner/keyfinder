@@ -1,8 +1,9 @@
 This is the first test.
 
 # Keyfinder
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
+Learning a new keyboard layout can be hard. Learning the [Neo](https://neo-layout.org/index_en.html) can be especially hard. We know the struggle.
+And once you finally feel comfortable using your new layout, you keep forgetting how to type that one character. Sigh no more - in comes **Keyfinder**.
+**Keyfinder** allows you to search for that one key you always keep forgetting and tells you quickly where it is.
 
 ## Development server
 
